@@ -6,7 +6,7 @@ import java.lang.Math;
  * Multiple lines of Javadoc text are written here,
  * wrapped normally...
  */
-public class SoNguyenTo{
+public class SoNguyenTo {
     /**
      * Multiple lines of Javadoc text are written here,
      * wrapped normally...
